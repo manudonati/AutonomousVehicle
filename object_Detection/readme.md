@@ -1,7 +1,7 @@
 This main does...
 
-**NOTE**<br>
-important software/libary will be using for this project:
+<b><u>NOTE</b></u><br>
+Important software/libary will be using for this project:
 
 - OpenCV
 - Numpy
