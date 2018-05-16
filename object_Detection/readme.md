@@ -1,6 +1,6 @@
 This main does...
 
-**NOTE**\n
+**NOTE**
 important software/libary will be using for this project:
 
 - OpenCV
